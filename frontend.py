@@ -2,7 +2,7 @@
 from tkinter import *
 from backend import Database
 
-database = Database()
+database = Database("books.db")
 # executed by the bind method
 
 global selected_tuple
