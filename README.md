@@ -1,3 +1,4 @@
+![Screenshot 2021-08-28 120213](https://user-images.githubusercontent.com/45776810/151078916-2257895b-8350-4bbf-96ad-d4625f76d8b0.png)
 # SQLBookInventory
 
     • Developed a Python application which emulates a library’s book inventory system
