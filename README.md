@@ -5,5 +5,5 @@
     • Utilized the tkinter library to enhance the front-end user experience and SQLite3 library for the database
     • Created a SQLite database model in order to store and lookup book information such as Title and ISBN
     
-    
+  Demo:   
 [frontend.zip](https://github.com/tparris4/SQLBookInventory/files/7938039/frontend.zip)
